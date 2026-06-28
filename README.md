@@ -4,11 +4,11 @@
 
 1. [GitHub Account](http://github.com)
 2. [VS Code IDE](http://code.visualstudio.com)
-3. [Heroku Account](http://heroku.com)
+3. [Docker](http://hub.docker.com)
 4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 5. [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
 6. [Adobe PD](https://get.adobe.com/uk/reader/)
-
+7. [Render](http://render.com)
 
 # Create a new environment
 
