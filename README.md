@@ -25,3 +25,7 @@ rmdir /s /q venv -> To delete directory
 ```
 
 
+<img width="587" height="841" alt="image" src="https://github.com/user-attachments/assets/1eb97350-e622-45e4-bd05-87959348efc5" />
+
+
+
